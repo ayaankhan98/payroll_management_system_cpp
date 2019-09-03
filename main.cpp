@@ -1,6 +1,5 @@
 /*________________________PAYROLL MANAGEMENT SYSTEM_____________________
-		DESIGNED AND DEVELOPED BY ISHAN AYAAN AND RISHABH
-			GUIDED BY MR. SHAKTI AGARWAL
+		    DESIGNED AND DEVELOPED BY AYAAN KHAN 
 */
 #include<iostream.h>
 #include<stdio.h>
@@ -1013,17 +1012,7 @@ void employee::about()
 	cprintf("DESIGNED AND DEVELOPED BY");
 	textcolor(RED);
 	gotoxy(27,9);
-	cprintf("RISHABH SRIVASTAV");
-	gotoxy(27,10);
-	cprintf("ISHAN SHANKHDHAR");
-	gotoxy(27,11);
 	cprintf("AYAAN KHAN");
-	textcolor(GREEN);
-	gotoxy(15,13);
-	cprintf("GUIDED BY");
-	textcolor(YELLOW);
-	gotoxy(27,15);
-	cprintf("Mr. SHAKTIRISH AGARWAL");
 	char ch;
 	gotoxy(56,22);
 	cprintf("Enter - Menu");

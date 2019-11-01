@@ -45,10 +45,10 @@ A university payroll system which generates the payslip of the employee of the u
 ## Classes Used
 
 1.	class admin	               class used for administration login purpose
-        ### Public Functions
+###         Public Functions
             a.	void login()       for login purpose (password and username)
 2.	class employee             class contain information about the employees such as name , address ,        phone                                  number , gender , marital status , designation , employee code
-        ###Public Functions
+###         Public Functions
             i.	void registration()        new employee registration
             ii.	void reg_sucess()	stores data of employee if registration is successful
             iii.	void reg_code()		assign code for a new employee
